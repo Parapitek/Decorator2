@@ -3,6 +3,7 @@
 
 #include "beverage.h"
 #include "houseblend.h"
+#include "milk.h"
 
 using namespace std;
 
